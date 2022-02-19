@@ -18,6 +18,7 @@ sources:
 - https://github.com/traefik/traefik
 - https://github.com/traefik/traefik-helm-chart
 type: application
+version: 10.9.1
 dependencies:
 - name: traefik
   version: "10.9.1"
